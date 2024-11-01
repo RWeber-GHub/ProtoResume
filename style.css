@@ -1,0 +1,47 @@
+.body{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.Education{
+    border: 1;
+    border-style: solid
+    
+}
+.coLine{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 50%;
+    margin-left: 0%
+}
+.name{
+    font-size: 24px;
+}
+.TLimage {
+    display:block;
+    float:right;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+
+}
+th, td{
+    border:1px solid black;
+    padding:8px;
+    padding-bottom:15px;
+    text-align:center;
+}
+.PIlist{
+    margin-right:45%;
+    margin-left:35%;
+}
+.copyright{
+    text-align:center;
+    color:coral
+}
+.header{
+    font-size: 20px;
+}
